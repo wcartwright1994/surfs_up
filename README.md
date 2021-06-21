@@ -3,9 +3,9 @@ Performing analysis to determine if the surf and ice cream shop business is sust
 
 **Overview of the Statistical Analysis**
 The purpose of this statistical analysis is to:
-1. Compile statistical measures for June and December weather based on the sqlite data provided
-2. Determine the differences in the historical weather based on the statistical measures
-3. Provide additional queries that must be performed to provide an appropriate recommendation 
+1. Compile statistical measures for June and December weather based on the sqlite data provided.
+2. Determine the differences in the historical weather based on the statistical measures.
+3. Provide additional queries that must be performed to provide an appropriate recommendation. 
 
 **Statistical Analysis Results**
 The key differences in the historical weather since 2010 between June and December are:
